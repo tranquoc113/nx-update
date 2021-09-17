@@ -18,7 +18,7 @@
             "assets": ["apps/myapp/src/favicon.ico", "apps/myapp/src/assets"],
             "styles": ["apps/myapp/src/styles.scss"],
             "scripts": [],
-            "webpackConfig": "@nrwl/react/plugins/webpack"
+            "webpackConfig": "react-tailwind.webpack.config.js"
           },
           "configurations": {
             "production": {
